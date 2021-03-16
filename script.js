@@ -1,6 +1,6 @@
 /* 
-	Author : Samyak Jain
-	Created on : 30 June 2020
+	Author : Sajal Pushpad
+	Created on : 30 March 2020
 */
 // import { Codec } from "./codec_implementation.js";
 
