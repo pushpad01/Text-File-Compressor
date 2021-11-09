@@ -1,1 +1,1 @@
-# Text-File-Compressor
+# Text File Compressor
